@@ -23,7 +23,7 @@ class _ProductPageState extends State<ProductPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Shoppaula"),
+        title: const Text("Coretico_Ecommerce"),
         centerTitle: true,
         backgroundColor: Colors.lightBlue,
         actions: [
