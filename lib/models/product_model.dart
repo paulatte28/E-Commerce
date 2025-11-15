@@ -19,28 +19,28 @@ final List<Product> products = [
     name: 'Nike Air Max 200',
     price: '180.0',
     status: 'Trending Now',
-    image: 'shoes1.jpg',  // Fixed path
+    image: 'shoes1.jpg',  
     category: 'Sneakers',
   ),
   Product(
     name: 'Nike Originals',
     price: '120.0',
-    status: 'Trending Now',  // Changed to available
-    image: 'shoes2.jpg',  // Fixed path
+    status: 'Trending Now', 
+    image: 'shoes2.jpg',  
     category: 'Sneakers',
   ),
   Product(
     name: 'Adidas Hoodie Jacket',
     price: '90.0',
     status: 'Trending Now',
-    image: 'jacket1.jpg',  // Fixed path
+    image: 'jacket1.jpg',  
     category: 'Jackets',
   ),
   Product(
     name: 'Leather Jacket',
     price: '130.0',
     status: 'Out of Stock',
-    image: 'jacket2.jpg',  // Fixed path
+    image: 'jacket2.jpg',  
     category: 'Jackets',
   ),
 ];

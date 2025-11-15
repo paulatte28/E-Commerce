@@ -227,7 +227,6 @@ class _CartPageState extends State<CartPage> {
                           ),
                         ),
                       ).then((_) {
-                        // When returning from checkout, update the cart
                         widget.onCartUpdated();
                       });
                     },
